@@ -1,0 +1,7 @@
+.header {
+    background-image: linear-gradient(rgba(103, 34, 128, 1),
+    rgba(166, 38, 211, 1));
+    color: #fff;
+    min-height: 65px;
+}
+ 
